@@ -9,11 +9,11 @@ let handler = async (m, { conn }) => {
 *Base Ori*
 https://github.com/Nutrutomo/wabot-aq
 
-*Recode*
+*Sc ori*
 https://github.com/FokusDotId/Family-MD.git
 
-*Recode 2*
-By Me 🐦
+*Sc ricode by riel*
+ chat riel wa.me/6282146218274
 `
      conn.reply(m.chat, txt, m)
 }
