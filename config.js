@@ -43,7 +43,7 @@ global.eror = '𝖤𝗋𝗋𝗈𝗋\n𝘐𝘯𝘵𝘦𝘳𝘯𝘢𝘭 𝘚𝘦�
 
 //========Url Template Buttons=========//
 global.dtu = 'Grup Bot'
-global.urlnya = "https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ"
+global.urlnya = "https://chat.whatsapp.com/CU0NIekiHQzCm5H2qUP1Lx"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
